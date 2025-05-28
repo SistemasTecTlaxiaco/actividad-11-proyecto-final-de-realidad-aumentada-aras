@@ -9,6 +9,9 @@ Marcador Hiro para enfocar y que se muestre el modelo 3D y su funcionalidad:
 Al enfocar el marcador Hiro, aparece lo siguiente:
 ![Funcion](https://github.com/user-attachments/assets/c599cb15-2ded-4507-92cb-dd57caee9f42)
 
-Funcionalidades de la interfaz del proyecto:![Bot](https://github.com/user-attachments/assets/02a37616-912a-4f90-8140-786704d6643b)
+Funcionalidades de la interfaz del proyecto:
+![Bot](https://github.com/user-attachments/assets/02a37616-912a-4f90-8140-786704d6643b)
 
+Lista de palabras a probar para su traduccion a inglés: 
+![Diccionario](https://github.com/user-attachments/assets/dfd52993-5f98-4691-89fb-965e45e1760d)
 
